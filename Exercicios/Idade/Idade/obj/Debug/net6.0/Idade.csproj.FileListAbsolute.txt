@@ -1,0 +1,5 @@
+C:\Users\LAB4\Downloads\SW\Exercicios\Idade\Idade\obj\Debug\net6.0\Idade.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\SW\Exercicios\Idade\Idade\obj\Debug\net6.0\Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\SW\Exercicios\Idade\Idade\obj\Debug\net6.0\Idade.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\SW\Exercicios\Idade\Idade\obj\Debug\net6.0\Idade.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\SW\Exercicios\Idade\Idade\obj\Debug\net6.0\Idade.csproj.CoreCompileInputs.cache
