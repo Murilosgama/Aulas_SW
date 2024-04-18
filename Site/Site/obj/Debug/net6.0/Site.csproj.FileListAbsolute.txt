@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\bin\Debug\net6.0\Site.exe
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\bin\Debug\net6.0\Site.deps.json
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\bin\Debug\net6.0\Site.runtimeconfig.json
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\bin\Debug\net6.0\Site.dll
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\bin\Debug\net6.0\Site.pdb
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\obj\Debug\net6.0\Site.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\obj\Debug\net6.0\Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\obj\Debug\net6.0\Site.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\obj\Debug\net6.0\Site.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\obj\Debug\net6.0\Site.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\obj\Debug\net6.0\Site.dll
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\obj\Debug\net6.0\refint\Site.dll
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\obj\Debug\net6.0\Site.pdb
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\obj\Debug\net6.0\Site.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\SW\Exercicios\Site\Site\obj\Debug\net6.0\ref\Site.dll

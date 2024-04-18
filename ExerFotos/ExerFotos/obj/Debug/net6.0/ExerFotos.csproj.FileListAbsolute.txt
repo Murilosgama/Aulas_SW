@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\bin\Debug\net6.0\ExerFotos.exe
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\bin\Debug\net6.0\ExerFotos.deps.json
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\bin\Debug\net6.0\ExerFotos.runtimeconfig.json
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\bin\Debug\net6.0\ExerFotos.dll
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\bin\Debug\net6.0\ExerFotos.pdb
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\obj\Debug\net6.0\ExerFotos.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\obj\Debug\net6.0\ExerFotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\obj\Debug\net6.0\ExerFotos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\obj\Debug\net6.0\ExerFotos.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\obj\Debug\net6.0\ExerFotos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\obj\Debug\net6.0\ExerFotos.dll
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\obj\Debug\net6.0\refint\ExerFotos.dll
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\obj\Debug\net6.0\ExerFotos.pdb
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\obj\Debug\net6.0\ExerFotos.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\SW\Exercicios\ExerFotos\ExerFotos\obj\Debug\net6.0\ref\ExerFotos.dll
